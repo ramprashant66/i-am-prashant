@@ -1,0 +1,39 @@
+body
+{
+	background: url("white.jpg");
+	background-size: cover;
+	margin: 0px;
+}
+
+.langs
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+h2
+{
+	display: inline-block;
+	font-family: sans-serif;
+	color: goldenrod;
+	border-bottom: 2px solid pink;
+	box-shadow: 3px 3px 4px #88888888;
+	
+}
+
+.image
+{
+	width: 300px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+}
+
+
+.image:hover 
+{
+	transform: scale(1.1);
+
+}
