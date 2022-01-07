@@ -1,0 +1,32 @@
+html{
+    background-color: bisque;
+    background-image: url("../images/clouds.jpg");
+    max-width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.m
+{
+    margin-top: 10px;
+}
+.contra
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+    background-color: rgba(255, 250, 205, 0.4);
+
+}
+.first
+{
+    padding-top: 20px;
+}
+
+.links{
+    text-decoration: none;
+}
