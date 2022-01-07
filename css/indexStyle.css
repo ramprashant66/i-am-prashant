@@ -5,7 +5,7 @@ body, html
     height: 100%;
 	text-align: left;
 	margin-left: 1rem;
-	background-image: url(C:\\Users\\rampr\\Desktop\\WebDev\\i-am-prashant\\images\\white.jpg);
+	background-image: url(white.jpg);
 	webkit-background-size: cover;
 	background-size: cover;
 }
