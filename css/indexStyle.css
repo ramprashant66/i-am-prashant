@@ -1,0 +1,68 @@
+
+body, html
+{
+    width: 100%;
+    height: 100%;
+	text-align: left;
+	margin-left: 1rem;
+	background-image: url(C:\\Users\\rampr\\Desktop\\WebDev\\i-am-prashant\\images\\white.jpg);
+	webkit-background-size: cover;
+	background-size: cover;
+}
+
+.main-texts
+{
+
+}
+
+img
+{
+	width: 20px;
+	height: 20px;
+}
+
+h2, h3
+{
+	color: AA5F39;
+	border: 5px dashed AA5F38;
+	text-align: center;
+}
+
+p
+{
+	color: darkblue;
+	//font-family: 'Raleway', sans-serif;
+	font-size: large;
+	line-height: 25px;
+}
+
+li
+{
+	list-style-type: none;
+}
+
+
+
+.inProgress
+{
+	text-align: left;
+	border: 2px dashed rgba(255, 0, 0, 0.5);
+	border-width: 10px;
+	display: inline-block;
+	color: darkgoldenrod;
+	font-family: Raleway;
+	padding: 2px 2px;
+}
+
+.extends
+{
+    color: whitesmoke;
+    text-decoration: none; 
+    
+}
+
+.end
+{
+
+    padding-bottom: 10px;
+}
